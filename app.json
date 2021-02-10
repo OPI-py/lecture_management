@@ -1,0 +1,27 @@
+{
+  "id": "6fcc9a73-fc40-4b79-b5ca-42988656c5a6",
+  "name": "Lection Management",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "features": [ "TranslationFile" ],
+  "contextSensitiveHelpUrl": "https://Individual5LectionManagement.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
